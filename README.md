@@ -1,4 +1,5 @@
 Summarize the project and what problem it was solving.
+
 To build an item tracking program for the Corner Grocer utilizing C++ and Python code. The program needs to analyze the items sold throughout the day to rearrange their store to better serve their customers. The three main requirements are:
 1.	Produce a list of all items purchased in a given day along with the number of times each item was purchased.
 2.	Produce a number representing how many times a specific item was purchased in a given day.
